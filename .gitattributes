@@ -1,0 +1,2 @@
+# Keep patch-package patches byte-stable across platforms (no CRLF conversion)
+patches/**/*.patch -text
